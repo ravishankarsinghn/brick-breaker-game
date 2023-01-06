@@ -18,3 +18,7 @@ body {
   line-height: 1.9;
   background-color: #f3f3f3;
 }
+
+#gameScreen {
+  border: 1px solid black;
+}
